@@ -1,0 +1,30 @@
+h1  { color: green; background-color: black;
+                        text-decoration:underline;}
+
+.amarillo { color: #F7D82F; }
+
+.rojo  { color: red; }
+
+h1 {font-size: 40px; }
+
+.amarillo  {font-size: 35px; }
+.rojo  {font-size: 35px; }
+
+li  {font-size: 25px; }
+
+ h1  {text-align: center; }
+.amarillo {text-align: justify; }
+
+body {  background-image:url("../imagenes/solcito.jpg");background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+img{
+    width: 600px;
+    height: 400px;
+}
+
+a {font-size: 25px;
+
+}
